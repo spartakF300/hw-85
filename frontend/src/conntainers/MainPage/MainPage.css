@@ -1,0 +1,16 @@
+.wrap-img {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.artist{
+    display: flex;
+    text-align: center;
+}
+.track{
+    border:1px solid black;
+    margin:10px;
+    display: flex;
+   padding: 15px;
+   flex-direction: column;
+}
